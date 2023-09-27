@@ -7,7 +7,7 @@
     "test": "jest",
     "watch": "webpack --watch",
     "build": "webpack",
-    "watchTest": "jest --watch *.js"
+    "watchTest": "jest --watch ./src/*.js"
   },
   "keywords": [],
   "author": "Yousef Elsisy (https://github.com/CCeph)",
